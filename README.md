@@ -4,7 +4,7 @@
   <div align="left">
   <a href="https://github.com/gscuri">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=gscuri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gscuri&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gscuri&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block">
 <h3 align="center">Frontend skills:</h3>
