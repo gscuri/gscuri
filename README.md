@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Guilherme Curi </h1>
  <img align="right" width="125px" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif">
 <h3 align="center">Atualmente me tornei um desenvolvedor web. Em 2021 resolvi seguir a paixão por tecnologia e estou estudando para me tornar um desenvolvedor Full Stack.</h3>
-  <div align="left">
+  <div align="center">
   <a href="https://github.com/gscuri">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gscuri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gscuri&layout=compact&langs_count=7&theme=dark"/>
